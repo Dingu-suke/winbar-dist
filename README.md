@@ -62,7 +62,8 @@
 
 ## インストール
 
-1. git clone などでダウンロード
+1. **[⬇️ WinBar.dmg をダウンロード](https://github.com/Dingu-suke/winbar-dist/raw/main/WinBar.dmg)**(クリックするとすぐに始まります)
+   - dmg が開けない場合は **[WinBar.zip](https://github.com/Dingu-suke/winbar-dist/raw/main/WinBar.zip)** でも可
 2. dmg を開き、**WinBar.app を Applications フォルダへドラッグ**
 3. `WinBar.app` を **右クリック →「開く」** で起動
    - 初回は「開発元を確認できません」と出ます(署名なしのため)。**右クリック → 開く**で起動できます
